@@ -1,0 +1,248 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: green;
+}
+/*--------------START ROW 01-----------------*/
+.templete{
+    width: 960px;
+    margin: 0 auto;
+}
+.row1{
+    
+    height: 500px;
+    width: 100%;
+    background: #FFBC02;
+}
+.midpart{
+    width: 750px;
+    margin: 0 auto;
+    
+}
+.left-bar{
+    width: 35%;
+    float: left;
+    margin-top: 145px;
+}
+
+.left-bar h5{
+    padding-bottom: 8px;
+}
+
+.left-bar button{
+        padding: 14px;
+        border-radius: 20px;
+        border: none;
+        margin-top: 10px;
+    
+        
+}
+.right-bar{
+    width: 50%;
+    float: left;
+}
+.right-bar img{
+    height: 350px;
+    margin-top: 40px;
+    margin-left: 150px;
+    transform: rotate(19deg);
+    }
+
+    
+/*------------- END ROW 01----------------*/
+    
+    
+/*--------------START ROW 02--------------*/
+
+.row2{
+    height: 250px;
+    background: white;
+    width: 100%;
+}
+.abot{
+    color: #132;
+}
+.apot h2{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.apot p{
+    text-indent: 20px;
+}
+
+/*--------------END ROW 02-----------------*/
+
+/*--------------START ROW 03--------------*/
+
+.row3{
+    height: 80px;
+    background: #FFBC02;
+    width: 100%;
+    margin-top: -40px;
+}
+.row3 h2{
+    text-align: center;
+    padding-top: 25px; 
+}
+
+/*--------------END ROW 03-----------------*/
+
+/*--------------START ROW 04--------------*/
+.row4{
+    height: 800px;
+    width: 100%;
+    background: white;
+}
+.twopart{}
+.partall_top{
+    padding-top: 30px;
+}
+.partall_top h2{
+       margin-bottom: 30px;
+}
+.part{
+    width: 217px;
+    height: 260px;
+    float: left;
+    margin-left: 25px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.lm{
+    margin-left: 0px;
+}
+.part img{
+    width: 100%;
+    height: 150px;
+}
+.part button{
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    padding: 7px;
+    border-radius: 18px;
+    border: none; 
+    background: #FDC66D;
+    
+    
+    
+}
+.part_bottom{
+    background: #FDC66D;
+    padding: 10px 0px 10px 10px;
+    margin-top: -4px;
+    
+}
+
+.part_bottom h3{}
+.part_bottom h2{
+    padding-bottom: 27px;
+    
+}
+.part_bottom p{}
+.part_all_bottom{}
+.part_all_bottom_top{}
+.part_all_bottom_top_part{
+    background: #FED436;
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.part_all_bottom_top_part img{
+    height: 75px;
+    margin-left: 32px;
+    
+}
+
+.part_all_bottom_bottom{}
+.part_all_bottom_bottom_part{
+    background: #FED436;
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.part_all_bottom_top_part:first-child{
+    margin-left: 0px;
+}
+.part_all_bottom_top_part:first-child{
+    margin-left: 0px;
+}
+.part_all_bottom_bottom_part img{
+    height: 100px;
+    margin-left: 32px;
+}
+/*--------------END ROW 04--------------*/
+
+
+/*--------------START ROW 05--------------*/
+
+.row5{
+    height: 100px;
+    background: #FDC66D;
+    width: 100%;
+}
+.left_title{
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+    color: #fff;
+    line-height: 30px;
+    
+}
+.left_title p{}
+.left_title h2{}
+.right_button{
+    width: 50%;
+    float: left;
+}
+.right_button button{
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 180px;
+}
+}
+/*--------------END ROW 05--------------*/
+
+/*--------------START ROW 06--------------*/
+
+.row6{
+    height: 200px;
+    width: 100%;
+    background: #fff;
+    margin-top: -15px;
+}
+.footer{}
+.footer h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 15px;
+}
+.footer_bottom{}
+.footer_bottom h3{
+    float: left;              
+    width: 187px;
+    text-align: center;
+    color: yellow;
+    position: relative;
+}
+.footer_bottom h3 span{
+    position: absolute;
+    font-size: 10px;
+    color: green;
+    margin-left: -50px;
+    margin-top: 26px;
+}
+
+/*--------------END ROW 06--------------*/
